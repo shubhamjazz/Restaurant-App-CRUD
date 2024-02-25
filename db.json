@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "0",
+      "name": "shubhamjaiswal7276@gmail.com",
+      "email": "shubhamjaiswal7276@gmail.com",
+      "mobile": 211111,
+      "address": "122222222sdsd",
+      "services": "sacca"
+    },
+    {
+      "id": "1",
+      "name": "shubhamjaiswal7276@gmail.com",
+      "email": "shubhamjaiswal7276@gmail.com",
+      "mobile": 24525235435,
+      "address": "sdg",
+      "services": "rgs     wtw"
+    },
+    {
+      "id": "2",
+      "name": "shubhamjaiswal7276@gmail.com",
+      "email": "shubhamjaiswal7276@gmail.com",
+      "mobile": 24525235435,
+      "address": "sdg",
+      "services": "rgs     wtw"
+    }
+  ],
+  "signup": [
+    {},
+    {
+      "id": "98b5",
+      "name": "Shubham",
+      "email": "shubhamjaiswal7276@gmail.com",
+      "mobile": 346754235,
+      "password": "admin"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
